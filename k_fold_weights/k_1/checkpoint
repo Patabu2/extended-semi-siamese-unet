@@ -1,0 +1,2 @@
+model_checkpoint_path: "expanded_u_net"
+all_model_checkpoint_paths: "expanded_u_net"
